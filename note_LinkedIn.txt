@@ -1,0 +1,2 @@
+- Chạy Content_comment đã xong. nhưng chưa lấy được hết các sub comment.
+- Chạy Profile bị app phát hiện dùng tool -> chỉ bóc được tầm chục profile đến khi bị chặn hoàn toàn mail đăng nhập trên trình duyệt.
